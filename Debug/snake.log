@@ -1,0 +1,29 @@
+﻿  food.cpp
+  control.cpp
+  snake.cpp
+D:\vs代码存放地址\snake\snake.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vs代码存放地址\snake\snake.cpp(211,30): error C2001: 常量中有换行符
+D:\vs代码存放地址\snake\snake.cpp(215,35): error C2001: 常量中有换行符
+D:\vs代码存放地址\snake\snake.cpp(246,2): error C2059: 语法错误:“}”
+D:\vs代码存放地址\snake\snake.cpp(253,1): error C2059: 语法错误:“}”
+D:\vs代码存放地址\snake\snake.cpp(213,29): error C2059: 语法错误:“;”
+D:\vs代码存放地址\snake\snake.cpp(217,29): error C2059: 语法错误:“;”
+D:\vs代码存放地址\snake\snake.cpp(219,3): error C2059: 语法错误:“else”
+D:\vs代码存放地址\snake\snake.cpp(220,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\vs代码存放地址\snake\snake.cpp(220,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\vs代码存放地址\snake\snake.cpp(223,3): error C2059: 语法错误:“else”
+D:\vs代码存放地址\snake\snake.cpp(224,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\vs代码存放地址\snake\snake.cpp(224,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\vs代码存放地址\snake\snake.cpp(227,3): error C2059: 语法错误:“while”
+D:\vs代码存放地址\snake\snake.cpp(228,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\vs代码存放地址\snake\snake.cpp(228,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\vs代码存放地址\snake\snake.cpp(246,1): error C2059: 语法错误:“)”
+D:\vs代码存放地址\snake\snake.cpp(248,2): error C2059: 语法错误:“else”
+D:\vs代码存放地址\snake\snake.cpp(249,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\vs代码存放地址\snake\snake.cpp(249,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\vs代码存放地址\snake\snake.cpp(253,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\vs代码存放地址\snake\snake.cpp(255,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\vs代码存放地址\snake\snake.cpp(255,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  unit.cpp
+  main.cpp
+  正在生成代码...

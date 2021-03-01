@@ -1,0 +1,2 @@
+D:\vs代码存放地址\snake\Debug\snake.pdb
+D:\vs代码存放地址\snake\Debug\snake.exe
